@@ -1,4 +1,4 @@
-# Optimised Indian Equity and Debt Mutual Fund Portfolio
+# Mean-Variance Optimised Equity and Debt Mutual Fund Portfolio
 
 ## Objective
 This project mirrors the analytical workflow of a junior buy-side analyst evaluating equity mutual funds for different investor profiles.
